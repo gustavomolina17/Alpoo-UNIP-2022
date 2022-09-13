@@ -6,7 +6,7 @@
 ## Turmas
 - 3º / 4º Semestre
 
-## Cronograma
+## Cronograma Aulas Teóricad
 
 - [x]  Aula 01
     - Introdução ao AWT
@@ -19,13 +19,13 @@
 - [x]  Aula 05 
     - JDBC
 - [x]  Aula 06
-    - Padrões de Projeto - MVC
+    - Revisão para a NP1
 - [x] Aula 07
-    - PAdrões de Projeto - DAO
+    - Apresentação do JAVA EE e Servidores Web
 - [x]  Aula 08
-    - Introdução ao Java EE
+    - 
 - [x]  Aula 09
-    - Servlets
+    - 
 - [x]  Aula 10
-    - JSP
+    - 
     
