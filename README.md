@@ -17,13 +17,13 @@
 - [x]  Aula 04
     - Swing Parte III
 - [x]  Aula 05 
-    - JDBC
+    - Revisão SQL / Principios de Banco de Dados
 - [x]  Aula 06
-    - Revisão para a NP1
+    - JDBC
 - [x] Aula 07
-    - Apresentação do JAVA EE e Servidores Web
+    - Revisão para a NP1
 - [x]  Aula 08
-    - 
+    - Apresentação do JAVA EE e Servidores Web
 - [x]  Aula 09
     - 
 - [x]  Aula 10
