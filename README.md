@@ -23,9 +23,9 @@
 - [x] Aula 07
     - Revisão para a NP1
 - [x]  Aula 08
-    - Apresentação do JAVA EE e Servidores Web
+    - Semana de Provas (NP1)
 - [x]  Aula 09
-    - 
+    - Apresentação do JAVA EE e Servidores Web
 - [x]  Aula 10
     - 
     
