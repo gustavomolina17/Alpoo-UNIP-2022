@@ -6,7 +6,7 @@
 ## Turmas
 - 3º / 4º Semestre
 
-## Cronograma Aulas Teóricad
+## Cronograma - Aulas Teóricas
 
 - [x]  Aula 01
     - Introdução ao AWT
@@ -29,3 +29,13 @@
 - [x]  Aula 10
     - 
     
+## Cronograma - Aulas de Laboratório (Quinzenal)
+
+- [x]  Lab 01
+    - Revisão de Conceitos de Orientação a Objetos (OO)
+- [x]  Lab 02
+    - AWT
+- [x]  Lab 03
+    - Swing Parte I
+- [x]  Lab 04
+    - Swing Partes II e III
