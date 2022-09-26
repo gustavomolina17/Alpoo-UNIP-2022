@@ -27,7 +27,7 @@
 - [x]  Aula 09
     - Apresentação do JAVA EE e Servidores Web
 - [x]  Aula 10
-    - 
+    - Padrôes de Projeto & MVC
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
