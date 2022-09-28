@@ -29,6 +29,7 @@
 - [x]  Aula 10
     - Padrões de Projeto & MVC
     - Material Complementar: https://blog.betrybe.com/desenvolvimento-web/design-patterns-tudo-sobre/
+    - Esse site apresenta, de uma forma bem dinâmica, todos os padrões de projeto em JAVA, com explicações e exemplos de código: https://refactoring.guru/pt-br/design-patterns/java (Vale a pena conferir !!!)
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
