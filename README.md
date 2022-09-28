@@ -27,7 +27,8 @@
 - [x]  Aula 09
     - Apresentação do JAVA EE e Servidores Web
 - [x]  Aula 10
-    - Padrôes de Projeto & MVC
+    - Padrões de Projeto & MVC
+    - Material Complementar: https://blog.betrybe.com/desenvolvimento-web/design-patterns-tudo-sobre/
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
