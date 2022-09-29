@@ -32,6 +32,7 @@
     - Esse site apresenta, de uma forma bem dinâmica, todos os padrões de projeto em JAVA, com explicações e exemplos de código: https://refactoring.guru/pt-br/design-patterns/java (Vale a pena conferir !!!)
 - [x]  Aula 11
     - Introdução ao Desenvolvimento Web I
+    - Site Space Jam (1996): https://www.spacejam.com/1996/
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
