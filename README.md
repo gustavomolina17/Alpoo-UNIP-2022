@@ -33,6 +33,8 @@
 - [x]  Aula 11
     - Introdução ao Desenvolvimento Web I
     - Site Space Jam (1996): https://www.spacejam.com/1996/
+- [x]  Aula 12
+    - Palestra - B3 Fact or Fiction
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
