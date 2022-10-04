@@ -37,6 +37,10 @@
     - Palestra - B3 Fact or Fiction
 - [x]  Aula 13
     - Introdução ao Desenvolvimento Web II
+- [x]  Aula 14
+    - JSP
+- [x]  Aula 15
+    - Servelets
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
