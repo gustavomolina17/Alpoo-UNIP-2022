@@ -33,6 +33,7 @@
 - [x]  Aula 11
     - Introdução ao Desenvolvimento Web I
     - Site Space Jam (1996): https://www.spacejam.com/1996/
+    - Site Wayback Machine: https://archive.org/web/
 - [x]  Aula 12
     - Palestra - B3 Fact or Fiction
 - [x]  Aula 13
