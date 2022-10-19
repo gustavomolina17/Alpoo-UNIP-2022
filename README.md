@@ -41,7 +41,9 @@
 - [x]  Aula 14
     - JSP
 - [x]  Aula 15
-    - Servelets
+    - Servlets
+- [x]  Aula 16
+    - Revisão para a prova
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
@@ -55,3 +57,5 @@
     - Swing Partes II e III
 - [x]  Lab 05
     - MVC
+ [x]  Lab 06
+    - JSP
