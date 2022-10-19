@@ -57,5 +57,5 @@
     - Swing Partes II e III
 - [x]  Lab 05
     - MVC
- [x]  Lab 06
+- [x]  Lab 06
     - JSP
