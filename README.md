@@ -41,9 +41,22 @@
 - [x]  Aula 14
     - JSP
 - [x]  Aula 15
-    - Servlets
+    - JSTL / Relatórios em Java
 - [x]  Aula 16
-    - Revisão para a prova
+    - Revisão para a prova (Todas as turmas em sala)
+- [x]  Aula 17 - 31/10/2022
+    - Introdução aos Servlets
+- [x]  Aula 18 - 03/11/2022
+    - Revisão para a prova (Todas as turmas em sala)
+- [x]  Aula 19 
+    - Período de Provas NP2
+- [x]  Aula 20 
+    - Período de Provas Sub
+- [x]  Aula 21 
+    - Período de Exames
+- [x]  Aula 22
+    - Revisão de Notas e Faltas
+ 
     
 ## Cronograma - Aulas de Laboratório (Quinzenal)
 
