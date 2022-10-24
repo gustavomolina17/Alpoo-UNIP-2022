@@ -41,11 +41,11 @@
 - [x]  Aula 14
     - JSP
 - [x]  Aula 15
-    - JSTL / Relatórios em Java
+    - Introdução aos Servlets
 - [x]  Aula 16
     - Revisão para a prova (Todas as turmas em sala)
 - [x]  Aula 17 - 31/10/2022
-    - Introdução aos Servlets
+    - JSTL / Relatórios em Java
 - [x]  Aula 18 - 03/11/2022
     - Revisão para a prova (Todas as turmas em sala)
 - [x]  Aula 19 
