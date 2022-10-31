@@ -47,6 +47,7 @@
 - [x]  Aula 17 - 31/10/2022
     - JSTL / Relatórios em Java
     - JSTL: https://medium.com/@gustavomolina_59611/jstl-java-549a9004ca8c
+    - JasperReport: https://medium.com/@gustavomolina_59611/alpoo-unip-jasperreport-72a918ae5197
 - [x]  Aula 18 - 03/11/2022
     - Revisão para a prova (Todas as turmas em sala)
 - [x]  Aula 19 
